@@ -31,8 +31,8 @@ Os exercícios resolvidos pertencem à **categoria iniciante (nível 1)** do Bee
 ## 📁 Organização
 
 Cada arquivo segue a estrutura:  
-`exercicio_<numero>.py`  
-Exemplo: `exercicio_1001.py` → Solução do problema 1001 - Extremamente Básico
+`bee<numero>.py`  
+Exemplo: `bee1001.py` → Solução do problema 1001 do Beecrowd - Extremamente Básico
 
 ## 👤 Sobre mim
 
